@@ -1,0 +1,47 @@
+/* cc9933 996633 ffff33 */
+.nav-link:hover, .nav-link:focus
+{
+    color:#cc9933;
+}
+.nav-link
+{
+    color:#996633;
+}
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link
+{
+    color:#ffff33;
+}
+.text-primary {
+    color: #996633 !important;
+}
+.text-secondary {
+    color: #996633 !important;
+}
+.border-primary {
+    border-color: #ffff33 !important;
+}
+body
+{           
+    color: #996633 !important;
+    background-color: chocolate;
+}
+
+.indexcard
+{
+    max-width: 540px;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #ffff33;
+    background-color: #cc9933;
+    border-color: #cc9933 !important;
+}
+
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
+    border-color:  #cc9933 !important;
+}
+
+.mynavtabs {
+    border-bottom: 1px solid #cc9933 !important;
+}
+
