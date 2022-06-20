@@ -20,6 +20,11 @@
 .border-primary {
     border-color: #ffff33 !important;
 }
+
+.border-disabled {
+    border-color: #cc9933 !important;
+}
+
 body
 {           
     color: #996633 !important;
@@ -44,4 +49,6 @@ body
 .mynavtabs {
     border-bottom: 1px solid #cc9933 !important;
 }
+
+
 
